@@ -9,7 +9,7 @@ body {
   background: #343434;
 }
 
-.cotaniner {
+.container {
   width: 26%;
   background-color: #343434;
 }
@@ -28,11 +28,11 @@ body {
   margin: 1rem 0;
 }
 
-img #icon {
+img .icon {
   width: 20%;
 }
 
-h6 #weather {
+h6 .weather {
   text-transform: capitalize;
 }
 
